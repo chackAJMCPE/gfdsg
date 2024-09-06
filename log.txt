@@ -1,0 +1,1131 @@
+ Volume in drive F is DYSK HDD (2nd)
+ Volume Serial Number is B6AB-7F00
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte
+
+06.09.2024  21:16    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:16                 0 log.txt
+06.09.2024  21:15    <DIR>          vendor
+               1 File(s)              0 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor
+
+06.09.2024  21:15    <DIR>          .
+06.09.2024  21:16    <DIR>          ..
+06.09.2024  21:14    <DIR>          app
+06.09.2024  21:14    <DIR>          bin
+06.09.2024  21:14    <DIR>          etc
+06.09.2024  21:14    <DIR>          firmware
+06.09.2024  21:15    <DIR>          lib
+06.09.2024  21:15             9ÿ654 manifest.xml
+06.09.2024  21:15    <DIR>          overlay
+06.09.2024  21:15    <DIR>          proprietary
+               1 File(s)          9ÿ654 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\app
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:14    <DIR>          mcRegistry
+06.09.2024  21:14    <DIR>          RootPA
+               0 File(s)              0 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\app\mcRegistry
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14            43ÿ217 00060308060501020000000000000000.tlbin
+06.09.2024  21:14            25ÿ733 07010000000000000000000000000000.tlbin
+06.09.2024  21:14            77ÿ409 0706000000000000000000000000004d.tlbin
+06.09.2024  21:14             8ÿ117 08130000000000000000000000000000.tlbin
+06.09.2024  21:14             8ÿ853 FFFFFFFF000000000000000000000001.drbin
+06.09.2024  21:14            40ÿ117 ffffffff00000000000000000000000a.tlbin
+06.09.2024  21:14             9ÿ561 ffffffff00000000000000000000000b.tlbin
+06.09.2024  21:14            47ÿ813 ffffffff00000000000000000000000f.tlbin
+06.09.2024  21:14           106ÿ885 ffffffff000000000000000000000012.tlbin
+06.09.2024  21:14            75ÿ681 ffffffff000000000000000000000013.tlbin
+06.09.2024  21:14            13ÿ493 ffffffff000000000000000000000019.tlbin
+06.09.2024  21:14           328ÿ817 ffffffff00000000000000000000002f.tlbin
+06.09.2024  21:14           703ÿ805 ffffffff000000000000000000000030.tlbin
+06.09.2024  21:14            69ÿ689 ffffffff000000000000000000000038.tlbin
+06.09.2024  21:14            19ÿ429 ffffffff000000000000000000000041.tlbin
+06.09.2024  21:14           685ÿ733 ffffffff000000000000000000000045.tlbin
+06.09.2024  21:14            12ÿ721 ffffffffd0000000000000000000000a.tlbin
+06.09.2024  21:14            21ÿ273 ffffffffd00000000000000000000016.tlbin
+              18 File(s)      2ÿ298ÿ346 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\app\RootPA
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14    <DIR>          lib
+06.09.2024  21:14            35ÿ526 RootPA.apk
+               1 File(s)         35ÿ526 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\app\RootPA\lib
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14    <DIR>          arm
+               0 File(s)              0 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\app\RootPA\lib\arm
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14                40 libcommonpawrapper.so
+               1 File(s)             40 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\bin
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:14                13 acpi
+06.09.2024  21:14            20ÿ288 argosd
+06.09.2024  21:14           126ÿ844 awk
+06.09.2024  21:14                13 base64
+06.09.2024  21:14                13 basename
+06.09.2024  21:14                13 blockdev
+06.09.2024  21:14                13 cal
+06.09.2024  21:14                13 cat
+06.09.2024  21:14           486ÿ364 cbd
+06.09.2024  21:14                13 chcon
+06.09.2024  21:14                13 chgrp
+06.09.2024  21:14                13 chmod
+06.09.2024  21:14                13 chown
+06.09.2024  21:14                13 chroot
+06.09.2024  21:14                13 chrt
+06.09.2024  21:14                13 cksum
+06.09.2024  21:14                13 clear
+06.09.2024  21:14                13 cmp
+06.09.2024  21:14                13 comm
+06.09.2024  21:14                13 cp
+06.09.2024  21:14                13 cpio
+06.09.2024  21:14                13 cut
+06.09.2024  21:14                13 date
+06.09.2024  21:14                 7 dd
+06.09.2024  21:14                13 df
+06.09.2024  21:14                13 diff
+06.09.2024  21:14                13 dirname
+06.09.2024  21:14                13 dmesg
+06.09.2024  21:14                13 dos2unix
+06.09.2024  21:14                13 du
+06.09.2024  21:14                13 echo
+06.09.2024  21:14                 4 egrep
+06.09.2024  21:14                13 env
+06.09.2024  21:14                13 expand
+06.09.2024  21:14                13 expr
+06.09.2024  21:14                13 fallocate
+06.09.2024  21:14                13 false
+06.09.2024  21:14                 4 fgrep
+06.09.2024  21:14                13 file
+06.09.2024  21:14                13 find
+06.09.2024  21:14                13 flock
+06.09.2024  21:14                13 fmt
+06.09.2024  21:14                13 free
+06.09.2024  21:14                13 getenforce
+06.09.2024  21:14                 7 getevent
+06.09.2024  21:14                 7 getprop
+06.09.2024  21:14            33ÿ708 grep
+06.09.2024  21:14                13 groups
+06.09.2024  21:14                13 gunzip
+06.09.2024  21:14                13 gzip
+06.09.2024  21:14                13 head
+06.09.2024  21:14                13 hostname
+06.09.2024  21:14    <DIR>          hw
+06.09.2024  21:14                13 hwclock
+06.09.2024  21:14           297ÿ688 icd
+06.09.2024  21:14                13 id
+06.09.2024  21:14                13 ifconfig
+06.09.2024  21:14                13 inotifyd
+06.09.2024  21:14                13 insmod
+06.09.2024  21:14                13 ionice
+06.09.2024  21:14                13 iorenice
+06.09.2024  21:14                13 kill
+06.09.2024  21:14                13 killall
+06.09.2024  21:14                13 ln
+06.09.2024  21:14                13 load_policy
+06.09.2024  21:14                13 log
+06.09.2024  21:14                13 logname
+06.09.2024  21:14            24ÿ336 logwrapper
+06.09.2024  21:14                13 losetup
+06.09.2024  21:14                13 ls
+06.09.2024  21:14                13 lsmod
+06.09.2024  21:14                13 lsof
+06.09.2024  21:14                13 lspci
+06.09.2024  21:14                13 lsusb
+06.09.2024  21:14            75ÿ964 mcDriverDaemon
+06.09.2024  21:14                13 md5sum
+06.09.2024  21:14                13 microcom
+06.09.2024  21:14                13 mkdir
+06.09.2024  21:14                13 mkfifo
+06.09.2024  21:14                13 mknod
+06.09.2024  21:14                13 mkswap
+06.09.2024  21:14                13 mktemp
+06.09.2024  21:14                13 modinfo
+06.09.2024  21:14                13 modprobe
+06.09.2024  21:14                13 more
+06.09.2024  21:14             1ÿ906 moredump
+06.09.2024  21:14                13 mount
+06.09.2024  21:14                13 mountpoint
+06.09.2024  21:14                13 mv
+06.09.2024  21:14               397 mx_logger.sh
+06.09.2024  21:14             2ÿ778 mx_logger_dump.sh
+06.09.2024  21:14             6ÿ400 mx_log_collection.sh
+06.09.2024  21:14                13 netstat
+06.09.2024  21:14                 7 newfs_msdos
+06.09.2024  21:14                13 nice
+06.09.2024  21:14                13 nl
+06.09.2024  21:14                13 nohup
+06.09.2024  21:14                13 od
+06.09.2024  21:14                13 paste
+06.09.2024  21:14                13 patch
+06.09.2024  21:14                13 pgrep
+06.09.2024  21:14                13 pidof
+06.09.2024  21:14                13 pkill
+06.09.2024  21:14                13 pmap
+06.09.2024  21:14            16ÿ016 pm_proxy_helper
+06.09.2024  21:14                13 printenv
+06.09.2024  21:14                13 printf
+06.09.2024  21:14                13 ps
+06.09.2024  21:14                13 pwd
+06.09.2024  21:14                13 readlink
+06.09.2024  21:14                13 realpath
+06.09.2024  21:14                13 renice
+06.09.2024  21:14                13 restorecon
+06.09.2024  21:14                13 rm
+06.09.2024  21:14                13 rmdir
+06.09.2024  21:14                13 rmmod
+06.09.2024  21:14                13 runcon
+06.09.2024  21:14                13 sed
+06.09.2024  21:14                13 sendevent
+06.09.2024  21:14                13 seq
+06.09.2024  21:14                13 setenforce
+06.09.2024  21:14                13 setprop
+06.09.2024  21:14                13 setsid
+06.09.2024  21:14           236ÿ244 sh
+06.09.2024  21:14                13 sha1sum
+06.09.2024  21:14                13 sha224sum
+06.09.2024  21:14                13 sha256sum
+06.09.2024  21:14                13 sha384sum
+06.09.2024  21:14                13 sha512sum
+06.09.2024  21:14                13 sleep
+06.09.2024  21:14                13 sort
+06.09.2024  21:14                13 split
+06.09.2024  21:14                13 start
+06.09.2024  21:14                13 stat
+06.09.2024  21:14                13 stop
+06.09.2024  21:14                13 strings
+06.09.2024  21:14                13 stty
+06.09.2024  21:14                13 swapoff
+06.09.2024  21:14                13 swapon
+06.09.2024  21:14                13 sync
+06.09.2024  21:14                13 sysctl
+06.09.2024  21:14                13 tac
+06.09.2024  21:14                13 tail
+06.09.2024  21:14                13 tar
+06.09.2024  21:14                13 taskset
+06.09.2024  21:14                13 tee
+06.09.2024  21:14                13 time
+06.09.2024  21:14                13 timeout
+06.09.2024  21:14            95ÿ576 toolbox
+06.09.2024  21:14                13 top
+06.09.2024  21:14                13 touch
+06.09.2024  21:14           443ÿ744 toybox_vendor
+06.09.2024  21:14                13 tr
+06.09.2024  21:14                13 true
+06.09.2024  21:14                13 truncate
+06.09.2024  21:14                13 tty
+06.09.2024  21:14                13 ulimit
+06.09.2024  21:14                13 umount
+06.09.2024  21:14                13 uname
+06.09.2024  21:14                13 uniq
+06.09.2024  21:14                13 unix2dos
+06.09.2024  21:14                13 uptime
+06.09.2024  21:14                13 usleep
+06.09.2024  21:14                13 uudecode
+06.09.2024  21:14                13 uuencode
+06.09.2024  21:14            24ÿ592 vendor.samsung.security.sem@1.0-service
+06.09.2024  21:14            24ÿ592 vendor.samsung.security.skpm@1.0-service
+06.09.2024  21:14            33ÿ176 vendor.samsung.security.wsm@1.0-service
+06.09.2024  21:14            24ÿ476 vendor.samsung.security.wvkprov_server@1.0-service
+06.09.2024  21:14                13 vmstat
+06.09.2024  21:14            32ÿ916 vndservice
+06.09.2024  21:14            24ÿ856 vndservicemanager
+06.09.2024  21:14                13 wc
+06.09.2024  21:14                13 which
+06.09.2024  21:14                13 whoami
+06.09.2024  21:14            24ÿ548 wlbtd
+06.09.2024  21:14            18ÿ088 wvkprov
+06.09.2024  21:14                13 xargs
+06.09.2024  21:14                13 xxd
+06.09.2024  21:14                13 yes
+06.09.2024  21:14                13 zcat
+             180 File(s)      2ÿ077ÿ496 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\bin\hw
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14            24ÿ248 android.hardware.audio@2.0-service
+06.09.2024  21:14            28ÿ768 android.hardware.bluetooth@1.0-service
+06.09.2024  21:14            46ÿ584 android.hardware.cas@1.0-service
+06.09.2024  21:14            24ÿ936 android.hardware.configstore@1.1-service
+06.09.2024  21:14            20ÿ140 android.hardware.drm@1.0-service
+06.09.2024  21:14            94ÿ888 android.hardware.drm@1.1-service.clearkey
+06.09.2024  21:14            20ÿ296 android.hardware.drm@1.1-service.widevine
+06.09.2024  21:14            20ÿ228 android.hardware.gatekeeper@1.0-service
+06.09.2024  21:14            16ÿ028 android.hardware.graphics.allocator@2.0-service
+06.09.2024  21:14            16ÿ028 android.hardware.graphics.composer@2.1-service
+06.09.2024  21:14            97ÿ588 android.hardware.health@2.0-service.samsung
+06.09.2024  21:14            16ÿ048 android.hardware.keymaster@3.0-service
+06.09.2024  21:14            20ÿ212 android.hardware.media.omx@1.0-service
+06.09.2024  21:14            16ÿ032 android.hardware.memtrack@1.0-service
+06.09.2024  21:14            16ÿ040 android.hardware.power@1.0-service
+06.09.2024  21:14            16ÿ032 android.hardware.sensors@1.0-service
+06.09.2024  21:14           280ÿ860 android.hardware.wifi@1.0-service
+06.09.2024  21:14         4ÿ665ÿ448 gpsd
+06.09.2024  21:14           511ÿ296 hostapd
+06.09.2024  21:14            24ÿ524 macloader
+06.09.2024  21:14            20ÿ200 mfgloader
+06.09.2024  21:14            38ÿ028 nxp.android.hardware.nfc@1.1-service
+06.09.2024  21:14            20ÿ268 rild
+06.09.2024  21:14            20ÿ136 vendor.samsung.hardware.gnss@1.0-service
+06.09.2024  21:14            16ÿ036 vendor.samsung.hardware.light@2.0-service
+06.09.2024  21:14            29ÿ000 vendor.samsung.hardware.miscpower@1.0-service
+06.09.2024  21:14            24ÿ684 vendor.samsung.hardware.radio.configsvc@1.0-service
+06.09.2024  21:14            37ÿ704 vendor.samsung.hardware.vibrator@1.0-service
+06.09.2024  21:14            24ÿ736 vendor.samsung_slsi.hardware.configstore@1.0-service
+06.09.2024  21:14            24ÿ920 vendor.samsung_slsi.hardware.ExynosHWCServiceTW@1.0-service
+06.09.2024  21:14         1ÿ666ÿ976 wpa_supplicant
+              31 File(s)      7ÿ898ÿ912 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:14             2ÿ134 a2dp_audio_policy_configuration.xml
+06.09.2024  21:14             1ÿ833 audio_effects.xml
+06.09.2024  21:14             1ÿ013 audio_effects_common.conf
+06.09.2024  21:14             5ÿ091 audio_effects_sec.xml
+06.09.2024  21:14             8ÿ686 audio_policy_configuration.xml
+06.09.2024  21:14             7ÿ221 audio_policy_configuration_sec.xml
+06.09.2024  21:14            10ÿ618 audio_policy_volumes.xml
+06.09.2024  21:14    <DIR>          bluetooth
+06.09.2024  21:14             2ÿ687 default_volume_tables.xml
+06.09.2024  21:14    <DIR>          gnss
+06.09.2024  21:14               485 group
+06.09.2024  21:14    <DIR>          init
+06.09.2024  21:14            16ÿ354 libnfc-nci.conf
+06.09.2024  21:14            12ÿ241 libnfc-nxp.conf
+06.09.2024  21:14            11ÿ250 media_codecs.xml
+06.09.2024  21:14             4ÿ927 media_codecs_google_audio.xml
+06.09.2024  21:14               998 media_codecs_google_telephony.xml
+06.09.2024  21:14             6ÿ533 media_codecs_google_video.xml
+06.09.2024  21:14             5ÿ804 media_codecs_google_video_le.xml
+06.09.2024  21:14             9ÿ613 media_codecs_performance.xml
+06.09.2024  21:14            21ÿ556 media_profiles_V1_0.xml
+06.09.2024  21:14               391 mkshrc
+06.09.2024  21:14    <DIR>          nfc
+06.09.2024  21:14    <DIR>          nxp
+06.09.2024  21:14               881 passwd
+06.09.2024  21:14    <DIR>          permissions
+06.09.2024  21:14             1ÿ630 playback_record_audio_policy_configuration.xml
+06.09.2024  21:14            11ÿ437 plmn_delta.bin
+06.09.2024  21:14             1ÿ138 plmn_delta_chn.bin
+06.09.2024  21:14               947 plmn_delta_hktw.bin
+06.09.2024  21:14            26ÿ813 plmn_se13.bin
+06.09.2024  21:14               638 public.libraries.txt
+06.09.2024  21:14               638 public.libraries.txt.backup
+06.09.2024  21:14             2ÿ265 r_submix_audio_policy_configuration.xml
+06.09.2024  21:14    <DIR>          seccomp_policy
+06.09.2024  21:14    <DIR>          selinux
+06.09.2024  21:14             3ÿ938 SoundBoosterParam.txt
+06.09.2024  21:14             4ÿ175 Tfa9896.cnt
+06.09.2024  21:14             2ÿ346 tms_audio_policy_configuration.xml
+06.09.2024  21:14             2ÿ489 usb_audio_policy_configuration.xml
+06.09.2024  21:14    <DIR>          vintf
+06.09.2024  21:14    <DIR>          wifi
+06.09.2024  21:14             1ÿ764 wlan_common_rc
+06.09.2024  21:14             1ÿ399 wlan_vendor_rc
+              34 File(s)        191ÿ933 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\bluetooth
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14               547 bt_did.conf
+               1 File(s)            547 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\gnss
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14            50ÿ004 ca.pem
+06.09.2024  21:14               787 gps.cfg
+               2 File(s)         50ÿ791 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\init
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14               726 android.hardware.audio@2.0-service.rc
+06.09.2024  21:14               637 android.hardware.bluetooth@1.0-service.rc
+06.09.2024  21:14               194 android.hardware.cas@1.0-service.rc
+06.09.2024  21:14               148 android.hardware.configstore@1.1-service.rc
+06.09.2024  21:14               194 android.hardware.drm@1.0-service.rc
+06.09.2024  21:14               245 android.hardware.drm@1.1-service.clearkey.rc
+06.09.2024  21:14               533 android.hardware.drm@1.1-service.widevine.rc
+06.09.2024  21:14               211 android.hardware.gatekeeper@1.0-service.rc
+06.09.2024  21:14               225 android.hardware.graphics.allocator@2.0-service.rc
+06.09.2024  21:14               268 android.hardware.graphics.composer@2.1-service.rc
+06.09.2024  21:14               161 android.hardware.health@2.0-service.samsung.rc
+06.09.2024  21:14               147 android.hardware.keymaster@3.0-service.rc
+06.09.2024  21:14               221 android.hardware.media.omx@1.0-service_slsi.rc
+06.09.2024  21:14               136 android.hardware.memtrack@1.0-service.rc
+06.09.2024  21:14               130 android.hardware.power@1.0-service.rc
+06.09.2024  21:14               200 android.hardware.sensors@1.0-service.rc
+06.09.2024  21:14               178 android.hardware.wifi@1.0-service.rc
+06.09.2024  21:14               620 hostapd.android.rc
+06.09.2024  21:14               391 icd.rc
+06.09.2024  21:14               765 init.gps.rc
+06.09.2024  21:14               930 init.vendor.rilchip.rc
+06.09.2024  21:14               622 init.vendor.rilcommon.rc
+06.09.2024  21:14               161 nxp.android.hardware.nfc@1.1-service.rc
+06.09.2024  21:14               137 vendor.samsung.hardware.gnss@1.0-service.rc
+06.09.2024  21:14               271 vendor.samsung.hardware.light@2.0-service.rc
+06.09.2024  21:14               139 vendor.samsung.hardware.miscpower@1.0-service.rc
+06.09.2024  21:14               243 vendor.samsung.hardware.radio.configsvc@1.0-service.rc
+06.09.2024  21:14               136 vendor.samsung.hardware.vibrator@1.0-service.rc
+06.09.2024  21:14               129 vendor.samsung.security.sem@1.0-service.rc
+06.09.2024  21:14               131 vendor.samsung.security.skpm@1.0-service.rc
+06.09.2024  21:14               151 vendor.samsung.security.wvkprov_server@1.0-service.rc
+06.09.2024  21:14               154 vendor.samsung_slsi.hardware.configstore@1.0-service.rc
+06.09.2024  21:14               162 vendor.samsung_slsi.hardware.ExynosHWCServiceTW@1.0-service.rc
+06.09.2024  21:14               205 vndservicemanager.rc
+06.09.2024  21:14             1ÿ764 wifi.rc
+06.09.2024  21:14             1ÿ399 wifi_slsi.rc
+06.09.2024  21:14               133 wsm-service.rc
+              37 File(s)         13ÿ197 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\nfc
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14             8ÿ403 libnfc-nxp_RF.conf
+               1 File(s)          8ÿ403 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\nxp
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14             1ÿ415 AzControlParams_SPEAKER.txt
+06.09.2024  21:14             1ÿ460 LVAZFS_Configuration.txt
+06.09.2024  21:14    <DIR>          speechassist
+06.09.2024  21:14    <DIR>          voiceexperience
+               2 File(s)          2ÿ875 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\nxp\speechassist
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14    <DIR>          BargeIn
+06.09.2024  21:14    <DIR>          BargeInDriving
+06.09.2024  21:14    <DIR>          default
+06.09.2024  21:14               756 LVVEFS_Rx_Configuration.txt
+06.09.2024  21:14             1ÿ991 LVVEFS_Tx_Configuration.txt
+               2 File(s)          2ÿ747 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\nxp\speechassist\BargeIn
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14               708 Tx_ControlParams_WIDEBAND_ANALOG_DOCK.txt
+06.09.2024  21:14               716 Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14               707 Tx_ControlParams_WIDEBAND_EARPIECE.txt
+06.09.2024  21:14               725 Tx_ControlParams_WIDEBAND_SPEAKER.txt
+06.09.2024  21:14               708 Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14               707 Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+               6 File(s)          4ÿ271 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\nxp\speechassist\BargeInDriving
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14               708 Tx_ControlParams_WIDEBAND_ANALOG_DOCK.txt
+06.09.2024  21:14               716 Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14               707 Tx_ControlParams_WIDEBAND_EARPIECE.txt
+06.09.2024  21:14               726 Tx_ControlParams_WIDEBAND_SPEAKER.txt
+06.09.2024  21:14               726 Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14               726 Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+               6 File(s)          4ÿ309 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\nxp\speechassist\default
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14               316 Rx_ControlParams_EARPIECE_16000Hz.txt
+06.09.2024  21:14               316 Rx_ControlParams_SPEAKER_16000Hz.txt
+06.09.2024  21:14               712 Tx_ControlParams_EARPIECE_16000Hz.txt
+06.09.2024  21:14               725 Tx_ControlParams_SPEAKER_16000Hz.txt
+               4 File(s)          2ÿ069 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\nxp\voiceexperience
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14            10ÿ128 LVVEFS_Rx_Configuration.txt
+06.09.2024  21:14             6ÿ964 LVVEFS_Tx_Configuration.txt
+06.09.2024  21:14    <DIR>          mVoIP
+06.09.2024  21:14    <DIR>          mVoIPFMC
+06.09.2024  21:14    <DIR>          mVoIPHAC
+06.09.2024  21:14    <DIR>          mVoIPSec
+06.09.2024  21:14    <DIR>          VideoTelephony
+06.09.2024  21:14    <DIR>          WifiCalling
+06.09.2024  21:14    <DIR>          WifiCallingHAC
+               2 File(s)         17ÿ092 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\nxp\voiceexperience\mVoIP
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14               915 Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14               915 Rx_ControlParams_NARROWBAND_EARPIECE.txt
+06.09.2024  21:14             2ÿ797 Rx_ControlParams_NARROWBAND_SLD.txt
+06.09.2024  21:14               920 Rx_ControlParams_NARROWBAND_SPEAKER.txt
+06.09.2024  21:14               915 Rx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14               915 Rx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+06.09.2024  21:14               917 Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14             1ÿ050 Rx_ControlParams_WIDEBAND_EARPIECE.txt
+06.09.2024  21:14             2ÿ845 Rx_ControlParams_WIDEBAND_SLD.txt
+06.09.2024  21:14             1ÿ039 Rx_ControlParams_WIDEBAND_SPEAKER.txt
+06.09.2024  21:14               965 Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14               965 Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+06.09.2024  21:14             2ÿ221 Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14             2ÿ214 Tx_ControlParams_NARROWBAND_EARPIECE.txt
+06.09.2024  21:14             1ÿ544 Tx_ControlParams_NARROWBAND_SLD.txt
+06.09.2024  21:14             2ÿ216 Tx_ControlParams_NARROWBAND_SPEAKER.txt
+06.09.2024  21:14             2ÿ208 Tx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14             2ÿ212 Tx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+06.09.2024  21:14             2ÿ540 Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14             2ÿ308 Tx_ControlParams_WIDEBAND_EARPIECE.txt
+06.09.2024  21:14             1ÿ580 Tx_ControlParams_WIDEBAND_SLD.txt
+06.09.2024  21:14             2ÿ282 Tx_ControlParams_WIDEBAND_SPEAKER.txt
+06.09.2024  21:14             2ÿ308 Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14             2ÿ531 Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+              24 File(s)         41ÿ322 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\nxp\voiceexperience\mVoIPFMC
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14               916 Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14               976 Rx_ControlParams_WIDEBAND_EARPIECE.txt
+06.09.2024  21:14               974 Rx_ControlParams_WIDEBAND_SPEAKER.txt
+06.09.2024  21:14               912 Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14               912 Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+06.09.2024  21:14             2ÿ221 Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14             2ÿ271 Tx_ControlParams_WIDEBAND_EARPIECE.txt
+06.09.2024  21:14             2ÿ294 Tx_ControlParams_WIDEBAND_SPEAKER.txt
+06.09.2024  21:14             2ÿ214 Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14             2ÿ287 Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+              10 File(s)         15ÿ977 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\nxp\voiceexperience\mVoIPHAC
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14               915 Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14               915 Rx_ControlParams_NARROWBAND_EARPIECE.txt
+06.09.2024  21:14               920 Rx_ControlParams_NARROWBAND_SPEAKER.txt
+06.09.2024  21:14               915 Rx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14               915 Rx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+06.09.2024  21:14            14ÿ040 Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14            14ÿ038 Rx_ControlParams_WIDEBAND_EARPIECE.txt
+06.09.2024  21:14            14ÿ039 Rx_ControlParams_WIDEBAND_SPEAKER.txt
+06.09.2024  21:14            11ÿ233 Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14            11ÿ233 Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+06.09.2024  21:14             2ÿ221 Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14             2ÿ214 Tx_ControlParams_NARROWBAND_EARPIECE.txt
+06.09.2024  21:14             2ÿ216 Tx_ControlParams_NARROWBAND_SPEAKER.txt
+06.09.2024  21:14             2ÿ208 Tx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14             2ÿ212 Tx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+06.09.2024  21:14            30ÿ917 Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14            30ÿ917 Tx_ControlParams_WIDEBAND_EARPIECE.txt
+06.09.2024  21:14            30ÿ917 Tx_ControlParams_WIDEBAND_SPEAKER.txt
+06.09.2024  21:14            30ÿ917 Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14             2ÿ312 Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+              20 File(s)        206ÿ214 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\nxp\voiceexperience\mVoIPSec
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14               915 Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14               970 Rx_ControlParams_WIDEBAND_EARPIECE.txt
+06.09.2024  21:14             2ÿ847 Rx_ControlParams_WIDEBAND_SLD.txt
+06.09.2024  21:14               954 Rx_ControlParams_WIDEBAND_SPEAKER.txt
+06.09.2024  21:14               915 Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14               915 Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+06.09.2024  21:14             2ÿ224 Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14             2ÿ254 Tx_ControlParams_WIDEBAND_EARPIECE.txt
+06.09.2024  21:14             1ÿ585 Tx_ControlParams_WIDEBAND_SLD.txt
+06.09.2024  21:14             2ÿ279 Tx_ControlParams_WIDEBAND_SPEAKER.txt
+06.09.2024  21:14             2ÿ255 Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14             2ÿ257 Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+              12 File(s)         20ÿ370 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\nxp\voiceexperience\VideoTelephony
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14               908 Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14               908 Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+06.09.2024  21:14               907 Rx_ControlParams_NARROWBAND_EARPIECE.txt
+06.09.2024  21:14             2ÿ821 Rx_ControlParams_NARROWBAND_SLD.txt
+06.09.2024  21:14               956 Rx_ControlParams_NARROWBAND_SPEAKER.txt
+06.09.2024  21:14               908 Rx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14               908 Rx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+06.09.2024  21:14               908 Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14               908 Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+06.09.2024  21:14               907 Rx_ControlParams_WIDEBAND_EARPIECE.txt
+06.09.2024  21:14             2ÿ840 Rx_ControlParams_WIDEBAND_SLD.txt
+06.09.2024  21:14               899 Rx_ControlParams_WIDEBAND_SPEAKER.txt
+06.09.2024  21:14               908 Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14               908 Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+06.09.2024  21:14             2ÿ249 Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14             2ÿ249 Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+06.09.2024  21:14             2ÿ247 Tx_ControlParams_NARROWBAND_EARPIECE.txt
+06.09.2024  21:14             1ÿ544 Tx_ControlParams_NARROWBAND_SLD.txt
+06.09.2024  21:14             2ÿ217 Tx_ControlParams_NARROWBAND_SPEAKER.txt
+06.09.2024  21:14             2ÿ247 Tx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14             2ÿ245 Tx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+06.09.2024  21:14             2ÿ286 Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14             2ÿ286 Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+06.09.2024  21:14             2ÿ214 Tx_ControlParams_WIDEBAND_EARPIECE.txt
+06.09.2024  21:14             1ÿ544 Tx_ControlParams_WIDEBAND_SLD.txt
+06.09.2024  21:14             2ÿ217 Tx_ControlParams_WIDEBAND_SPEAKER.txt
+06.09.2024  21:14             2ÿ214 Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14             2ÿ292 Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+              28 File(s)         46ÿ645 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\nxp\voiceexperience\WifiCalling
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14               907 Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14               907 Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+06.09.2024  21:14               910 Rx_ControlParams_NARROWBAND_EARPIECE.txt
+06.09.2024  21:14            10ÿ794 Rx_ControlParams_NARROWBAND_SLD.txt
+06.09.2024  21:14               908 Rx_ControlParams_NARROWBAND_SPEAKER.txt
+06.09.2024  21:14               908 Rx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14               908 Rx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+06.09.2024  21:14               908 Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14               908 Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+06.09.2024  21:14               908 Rx_ControlParams_WIDEBAND_EARPIECE.txt
+06.09.2024  21:14            10ÿ792 Rx_ControlParams_WIDEBAND_SLD.txt
+06.09.2024  21:14               906 Rx_ControlParams_WIDEBAND_SPEAKER.txt
+06.09.2024  21:14               909 Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14               909 Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+06.09.2024  21:14             2ÿ252 Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14             2ÿ235 Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+06.09.2024  21:14             2ÿ247 Tx_ControlParams_NARROWBAND_EARPIECE.txt
+06.09.2024  21:14             5ÿ774 Tx_ControlParams_NARROWBAND_SLD.txt
+06.09.2024  21:14             2ÿ213 Tx_ControlParams_NARROWBAND_SPEAKER.txt
+06.09.2024  21:14             2ÿ247 Tx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14             2ÿ245 Tx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+06.09.2024  21:14             2ÿ284 Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14             2ÿ279 Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+06.09.2024  21:14             2ÿ314 Tx_ControlParams_WIDEBAND_EARPIECE.txt
+06.09.2024  21:14             1ÿ584 Tx_ControlParams_WIDEBAND_SLD.txt
+06.09.2024  21:14             2ÿ331 Tx_ControlParams_WIDEBAND_SPEAKER.txt
+06.09.2024  21:14             2ÿ313 Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14             2ÿ259 Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+              28 File(s)         67ÿ059 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\nxp\voiceexperience\WifiCallingHAC
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14               907 Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14               907 Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+06.09.2024  21:14               910 Rx_ControlParams_NARROWBAND_EARPIECE.txt
+06.09.2024  21:14            10ÿ795 Rx_ControlParams_NARROWBAND_SLD.txt
+06.09.2024  21:14               908 Rx_ControlParams_NARROWBAND_SPEAKER.txt
+06.09.2024  21:14               908 Rx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14               908 Rx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+06.09.2024  21:14               908 Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14               908 Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+06.09.2024  21:14               956 Rx_ControlParams_WIDEBAND_EARPIECE.txt
+06.09.2024  21:14            10ÿ794 Rx_ControlParams_WIDEBAND_SLD.txt
+06.09.2024  21:14               906 Rx_ControlParams_WIDEBAND_SPEAKER.txt
+06.09.2024  21:14               909 Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14               909 Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+06.09.2024  21:14             2ÿ234 Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14             2ÿ234 Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+06.09.2024  21:14             2ÿ240 Tx_ControlParams_NARROWBAND_EARPIECE.txt
+06.09.2024  21:14             5ÿ774 Tx_ControlParams_NARROWBAND_SLD.txt
+06.09.2024  21:14             2ÿ256 Tx_ControlParams_NARROWBAND_SPEAKER.txt
+06.09.2024  21:14             2ÿ241 Tx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14             2ÿ255 Tx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+06.09.2024  21:14             2ÿ243 Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+06.09.2024  21:14             2ÿ243 Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+06.09.2024  21:14             2ÿ253 Tx_ControlParams_WIDEBAND_EARPIECE.txt
+06.09.2024  21:14             5ÿ772 Tx_ControlParams_WIDEBAND_SLD.txt
+06.09.2024  21:14             2ÿ272 Tx_ControlParams_WIDEBAND_SPEAKER.txt
+06.09.2024  21:14             2ÿ255 Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+06.09.2024  21:14             2ÿ271 Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+              28 File(s)         71ÿ076 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\permissions
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14               839 android.hardware.bluetooth.xml
+06.09.2024  21:14               849 android.hardware.bluetooth_le.xml
+06.09.2024  21:14               964 android.hardware.location.gps.xml
+06.09.2024  21:14               910 android.hardware.nfc.hce.xml
+06.09.2024  21:14               913 android.hardware.nfc.hcef.xml
+06.09.2024  21:14               943 android.hardware.nfc.xml
+06.09.2024  21:14               844 android.hardware.sensor.accelerometer.xml
+06.09.2024  21:14               824 android.hardware.sensor.compass.xml
+06.09.2024  21:14               836 android.hardware.sensor.light.xml
+06.09.2024  21:14               835 android.hardware.sensor.proximity.xml
+06.09.2024  21:14               902 android.hardware.telephony.gsm.xml
+06.09.2024  21:14             1ÿ169 android.hardware.touchscreen.multitouch.jazzhand.xml
+06.09.2024  21:14               997 android.hardware.usb.accessory.xml
+06.09.2024  21:14               889 android.hardware.usb.host.xml
+06.09.2024  21:14               863 android.hardware.wifi.direct.xml
+06.09.2024  21:14               849 android.hardware.wifi.xml
+06.09.2024  21:14               830 com.android.nfc_extras.xml
+06.09.2024  21:14               834 com.nxp.mifare.xml
+06.09.2024  21:14             4ÿ985 handheld_core_hardware.xml
+              19 File(s)         21ÿ075 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\seccomp_policy
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14                44 mediacodec.policy
+               1 File(s)             44 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\selinux
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14    <DIR>          apm
+06.09.2024  21:14           266ÿ797 vendor_mac_permissions.xml
+               1 File(s)        266ÿ797 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\selinux\apm
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14            85ÿ763 authorize.xml
+               1 File(s)         85ÿ763 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\vintf
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14             2ÿ673 compatibility_matrix.xml
+06.09.2024  21:14            18ÿ239 manifest.xml
+               2 File(s)         20ÿ912 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\wifi
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14           356ÿ352 hydra_config.sdb
+06.09.2024  21:14            14ÿ331 indoorchannel.info
+06.09.2024  21:14                 0 mx
+06.09.2024  21:14    <DIR>          mx140
+06.09.2024  21:14         1ÿ360ÿ017 mx140.bin
+06.09.2024  21:14               134 mx140_bt.hcf
+06.09.2024  21:14    <DIR>          mx140_t
+06.09.2024  21:14           278ÿ673 mx140_t.bin
+06.09.2024  21:14             3ÿ752 mx140_t_wlan.hcf
+06.09.2024  21:14             3ÿ766 mx140_t_wlan_t.hcf
+06.09.2024  21:14             3ÿ718 mx140_wlan.hcf
+06.09.2024  21:14             3ÿ718 mx140_wlan_t.hcf
+06.09.2024  21:14               186 p2p_supplicant.conf
+06.09.2024  21:14               369 p2p_supplicant_overlay.conf
+06.09.2024  21:14                 9 platform.txt
+06.09.2024  21:14               175 wpa_supplicant.conf
+06.09.2024  21:14                31 wpa_supplicant_overlay.conf
+              15 File(s)      2ÿ025ÿ231 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\wifi\mx140
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\wifi\mx140\debug
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14    <DIR>          common
+06.09.2024  21:14    <DIR>          hardware
+06.09.2024  21:14    <DIR>          wlan
+               0 File(s)              0 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\wifi\mx140\debug\common
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14           650ÿ758 log-strings.bin
+               1 File(s)        650ÿ758 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\wifi\mx140\debug\hardware
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14    <DIR>          moredump
+               0 File(s)              0 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\wifi\mx140\debug\hardware\moredump
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14            28ÿ797 bt_registers.xml
+06.09.2024  21:14            29ÿ518 cortexM4.xml
+06.09.2024  21:14            25ÿ693 cortexR4.xml
+06.09.2024  21:14             2ÿ415 Memory.xsd
+06.09.2024  21:14           693ÿ996 moredump.bin
+06.09.2024  21:14             1ÿ529 moredump_memory.xml
+06.09.2024  21:14             5ÿ687 Registers.xsd
+06.09.2024  21:14            86ÿ158 rf_chip_registers.xml
+06.09.2024  21:14           198ÿ257 wlan_sys_registers.xml
+               9 File(s)      1ÿ072ÿ050 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\wifi\mx140\debug\wlan
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14           242ÿ577 hip_signals.xml
+06.09.2024  21:14               128 id.txt
+06.09.2024  21:14           373ÿ417 mib_out.xml
+06.09.2024  21:14           313ÿ198 symbols.dbg
+06.09.2024  21:14            77ÿ555 unicli.dbg
+06.09.2024  21:14            11ÿ285 unitab.dbg
+06.09.2024  21:14            11ÿ672 univif.dbg
+06.09.2024  21:14           137ÿ650 xide_mib.dbg
+               8 File(s)      1ÿ167ÿ482 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\wifi\mx140_t
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\wifi\mx140_t\debug
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14    <DIR>          common
+06.09.2024  21:14    <DIR>          hardware
+06.09.2024  21:14    <DIR>          wlan
+               0 File(s)              0 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\wifi\mx140_t\debug\common
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14            50ÿ016 log-strings.bin
+               1 File(s)         50ÿ016 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\wifi\mx140_t\debug\hardware
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14    <DIR>          moredump
+               0 File(s)              0 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\wifi\mx140_t\debug\hardware\moredump
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14            28ÿ797 bt_registers.xml
+06.09.2024  21:14            29ÿ518 cortexM4.xml
+06.09.2024  21:14            25ÿ693 cortexR4.xml
+06.09.2024  21:14             2ÿ415 Memory.xsd
+06.09.2024  21:14           693ÿ996 moredump.bin
+06.09.2024  21:14             1ÿ529 moredump_memory.xml
+06.09.2024  21:14             5ÿ687 Registers.xsd
+06.09.2024  21:14            86ÿ158 rf_chip_registers.xml
+06.09.2024  21:14           198ÿ257 wlan_sys_registers.xml
+               9 File(s)      1ÿ072ÿ050 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\etc\wifi\mx140_t\debug\wlan
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14           242ÿ577 hip_signals.xml
+06.09.2024  21:14               132 id.txt
+06.09.2024  21:14           373ÿ417 mib_out.xml
+06.09.2024  21:14           304ÿ170 symbols.dbg
+06.09.2024  21:14            68ÿ527 unicli.dbg
+06.09.2024  21:14            11ÿ285 unitab.dbg
+06.09.2024  21:14            11ÿ672 univif.dbg
+06.09.2024  21:14           137ÿ650 xide_mib.dbg
+               8 File(s)      1ÿ149ÿ430 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\firmware
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:14         3ÿ209ÿ270 fimc_is_lib.bin
+06.09.2024  21:14           876ÿ344 mfc_fw.bin
+06.09.2024  21:14         1ÿ048ÿ576 mfc_ldfw.bin
+06.09.2024  21:14    <DIR>          nfc
+06.09.2024  21:14           407ÿ208 setfile_3l2.bin
+06.09.2024  21:14           568ÿ296 setfile_5e3.bin
+               5 File(s)      6ÿ109ÿ694 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\firmware\nfc
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:14    <DIR>          ..
+06.09.2024  21:14            37ÿ099 libpn548ad_fw.so
+               1 File(s)         37ÿ099 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\lib
+
+06.09.2024  21:15    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:14            24ÿ332 android.hardware.gatekeeper@1.0-impl.so
+06.09.2024  21:14           113ÿ116 camera.device@1.0-impl.so
+06.09.2024  21:14           154ÿ928 camera.device@3.2-impl.so
+06.09.2024  21:14            37ÿ280 camera.device@3.3-impl.so
+06.09.2024  21:14           112ÿ788 camera.device@3.4-impl.so
+06.09.2024  21:14    <DIR>          egl
+06.09.2024  21:14    <DIR>          hw
+06.09.2024  21:14            73ÿ868 libak09916c.so
+06.09.2024  21:14            28ÿ484 libalsautils.so
+06.09.2024  21:14            20ÿ096 libavservices_minijail_vendor.so
+06.09.2024  21:14            20ÿ120 libbt-vendor.so
+06.09.2024  21:14           602ÿ364 libcommonpawrapper.so
+06.09.2024  21:14           881ÿ496 libcrypto.so
+06.09.2024  21:14            32ÿ852 libcsc.so
+06.09.2024  21:14            28ÿ748 libeffects.so
+06.09.2024  21:14            20ÿ156 libexynosutils.so
+06.09.2024  21:14            28ÿ448 libexynosv4l2.so
+06.09.2024  21:14           494ÿ976 libgui_vendor.so
+06.09.2024  21:14         2ÿ759ÿ364 libHMT.so
+06.09.2024  21:14            20ÿ168 libhumantracking_util.camera.samsung.so
+06.09.2024  21:14           117ÿ532 libhwc2on1adapter.so
+06.09.2024  21:14            33ÿ520 libhwc2onfbadapter.so
+06.09.2024  21:14            20ÿ100 libhwminijail.so
+06.09.2024  21:14            20ÿ108 libion_exynos.so
+06.09.2024  21:14           140ÿ212 libkeymaster3device.so
+06.09.2024  21:14            20ÿ804 libkeystore-engine-wifi-hidl.so
+06.09.2024  21:14            16ÿ136 libkeystore-wifi-hidl.so
+06.09.2024  21:14           224ÿ448 libLifevibes_lvverx.so
+06.09.2024  21:14           462ÿ588 libLifevibes_lvvetx.so
+06.09.2024  21:14            37ÿ548 libMcClient.so
+06.09.2024  21:14            24ÿ256 libMcRegistry.so
+06.09.2024  21:14            15ÿ936 libmpp.so
+06.09.2024  21:14            24ÿ528 libnbaio_mono.so
+06.09.2024  21:14           304ÿ428 liboemcrypto.so
+06.09.2024  21:14                14 libOpenCL.so
+06.09.2024  21:14                16 libOpenCL.so.1
+06.09.2024  21:14                31 libOpenCL.so.1.1
+06.09.2024  21:14        15ÿ615ÿ712 libOpenCv.camera.samsung.so
+06.09.2024  21:14            79ÿ880 libreference-ril.so
+06.09.2024  21:14           341ÿ576 libril.so
+06.09.2024  21:14            15ÿ908 librilutils.so
+06.09.2024  21:14         2ÿ425ÿ012 libsec-ril-dsds.so
+06.09.2024  21:14         2ÿ425ÿ000 libsec-ril.so
+06.09.2024  21:14            36ÿ940 libsecaudioinfo.so
+06.09.2024  21:14            45ÿ360 libsecpkcs11_engine.so
+06.09.2024  21:14            46ÿ124 libsensorndkbridge.so
+06.09.2024  21:14         4ÿ540ÿ976 libsmart_cropping.camera.samsung.so
+06.09.2024  21:14            83ÿ508 libsomp.camera.samsung.so
+06.09.2024  21:14           224ÿ344 libssl.so
+06.09.2024  21:14           109ÿ116 libstagefright_bufferqueue_helper_vendor.so
+06.09.2024  21:14           143ÿ024 libstagefright_foundation.so
+06.09.2024  21:14            28ÿ868 libstagefright_omx_utils.so
+06.09.2024  21:14           290ÿ780 libstagefright_omx_vendor.so
+06.09.2024  21:14            29ÿ448 libstagefright_soft_g711dec.so
+06.09.2024  21:14            38ÿ116 libstagefright_soft_opusdec.so
+06.09.2024  21:14            24ÿ744 libstagefright_soft_rawdec.so
+06.09.2024  21:14            33ÿ868 libstagefright_soft_vorbisdec.so
+06.09.2024  21:14            53ÿ968 libstagefright_xmlparser.so
+06.09.2024  21:14            53ÿ636 libstainkiller.so
+06.09.2024  21:14            24ÿ484 libtinycompress.so
+06.09.2024  21:14            41ÿ644 libucsengine.so
+06.09.2024  21:14            45ÿ048 libvndsecril-client.so
+06.09.2024  21:14           826ÿ596 libwebrtc_audio_preprocessing.so
+06.09.2024  21:14           111ÿ568 libwifi-hal.so
+06.09.2024  21:14            24ÿ336 libwpa_client.so
+06.09.2024  21:14            57ÿ592 libwrappergps.so
+06.09.2024  21:14         3ÿ395ÿ464 libwvhidl.so
+06.09.2024  21:14           161ÿ456 libxcv.camera.samsung.so
+06.09.2024  21:14            20ÿ060 lib_soundaliveresampler.so
+06.09.2024  21:14           225ÿ396 lib_SoundAlive_3DPosition_ver202.so
+06.09.2024  21:14            54ÿ356 lib_SoundAlive_SRC384_ver320.so
+06.09.2024  21:14    <DIR>          mediacas
+06.09.2024  21:14    <DIR>          mediadrm
+06.09.2024  21:14           201ÿ836 nfc_nci_nxp.so
+06.09.2024  21:14    <DIR>          soundfx
+06.09.2024  21:14           117ÿ276 vendor.samsung.camera.device@1.0-impl.so
+06.09.2024  21:15           150ÿ820 vendor.samsung.camera.device@3.2-impl.so
+06.09.2024  21:15            45ÿ864 vendor.samsung.camera.device@3.3-impl.so
+06.09.2024  21:15           125ÿ476 vendor.samsung.camera.device@3.4-impl.so
+06.09.2024  21:15            76ÿ032 vendor.samsung.frameworks.ucm.wifi@1.0.so
+06.09.2024  21:15           101ÿ688 vendor.samsung.hardware.radio.channel@1.0_vendor.so
+06.09.2024  21:15            71ÿ724 vendor.samsung.hardware.radio.configsvc@1.0_vendor.so
+06.09.2024  21:15           161ÿ688 vendor.samsung.hardware.radio.secbridge@1.0_vendor.so
+06.09.2024  21:15           136ÿ112 vendor.samsung.hardware.radio.sechook@1.0_vendor.so
+06.09.2024  21:15         1ÿ123ÿ116 vendor.samsung.hardware.radio@1.2_vendor.so
+              80 File(s)     40ÿ901ÿ329 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\lib\egl
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:14        20ÿ322ÿ840 libGLES_mali.so
+               1 File(s)     20ÿ322ÿ840 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\lib\hw
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:14           214ÿ444 android.hardware.audio.effect@2.0-impl.so
+06.09.2024  21:14           200ÿ108 android.hardware.audio@2.0-impl.so
+06.09.2024  21:14            67ÿ944 android.hardware.bluetooth@1.0-impl.so
+06.09.2024  21:14            75ÿ504 android.hardware.drm@1.0-impl.so
+06.09.2024  21:14           378ÿ828 android.hardware.gnss@1.1-impl.so
+06.09.2024  21:14            24ÿ828 android.hardware.graphics.allocator@2.0-impl.so
+06.09.2024  21:14            78ÿ128 android.hardware.graphics.composer@2.1-impl.so
+06.09.2024  21:14            29ÿ400 android.hardware.graphics.mapper@2.0-impl.so
+06.09.2024  21:14            15ÿ928 android.hardware.keymaster@3.0-impl.so
+06.09.2024  21:14            24ÿ280 android.hardware.memtrack@1.0-impl.so
+06.09.2024  21:14            24ÿ408 android.hardware.power@1.0-impl.so
+06.09.2024  21:14            58ÿ452 android.hardware.sensors@1.0-impl.so
+06.09.2024  21:14            20ÿ388 android.hardware.soundtrigger@2.0-impl.so
+06.09.2024  21:14            20ÿ848 audio.primary.default.so
+06.09.2024  21:14            38ÿ116 audio.r_submix.default.so
+06.09.2024  21:14            24ÿ980 audio.usb.default.so
+06.09.2024  21:14            20ÿ440 gatekeeper.exynos7570.so
+06.09.2024  21:14           222ÿ700 gps.default.so
+06.09.2024  21:14            25ÿ032 gralloc.default.so
+06.09.2024  21:14            69ÿ916 keystore.exynos7570.so
+06.09.2024  21:14            24ÿ684 lights.exynos5.so
+06.09.2024  21:14            16ÿ080 local_time.default.so
+06.09.2024  21:14            87ÿ744 memtrack.universal7570.so
+06.09.2024  21:14            16ÿ064 power.default.so
+06.09.2024  21:14            16ÿ140 power.universal7570.so
+06.09.2024  21:14            66ÿ476 sensors.universal7570.so
+06.09.2024  21:14           150ÿ400 vendor.samsung.hardware.camera.provider@2.4-impl.so
+06.09.2024  21:14           247ÿ752 vendor.samsung.hardware.gnss@1.0-impl.so
+06.09.2024  21:14            28ÿ708 vendor.samsung.hardware.light@2.0-impl.so
+06.09.2024  21:14            16ÿ124 vibrator.default.so
+              30 File(s)      2ÿ304ÿ844 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\lib\mediacas
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:14            79ÿ468 libclearkeycasplugin.so
+               1 File(s)         79ÿ468 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\lib\mediadrm
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:14            59ÿ408 libdrmclearkeyplugin.so
+06.09.2024  21:14         3ÿ311ÿ584 libwvdrmengine.so
+               2 File(s)      3ÿ370ÿ992 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\lib\soundfx
+
+06.09.2024  21:14    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:14            24ÿ248 libaudioeffectoffload.so
+06.09.2024  21:14            29ÿ552 libaudiopreprocessing.so
+06.09.2024  21:14            36ÿ832 libaudiosaplus_sec.so
+06.09.2024  21:14            73ÿ052 libbundlewrapper.so
+06.09.2024  21:14            20ÿ296 libdownmix.so
+06.09.2024  21:14            51ÿ120 libdynproc.so
+06.09.2024  21:14            20ÿ188 libeffectproxy.so
+06.09.2024  21:14            28ÿ480 libgearvr.so
+06.09.2024  21:14            20ÿ344 libldnhncr.so
+06.09.2024  21:14           224ÿ448 libLifevibes_lvverx.so
+06.09.2024  21:14           462ÿ588 libLifevibes_lvvetx.so
+06.09.2024  21:14            66ÿ380 libmysound.so
+06.09.2024  21:14            28ÿ468 libmyspace.so
+06.09.2024  21:14            15ÿ976 libplaybackrecorder.so
+06.09.2024  21:14            46ÿ200 libreverbwrapper.so
+06.09.2024  21:14            36ÿ344 libsamsungSoundbooster_plus.so
+06.09.2024  21:14            20ÿ184 libvisualizer.so
+              17 File(s)      1ÿ204ÿ700 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\overlay
+
+06.09.2024  21:15    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:15    <DIR>          DisplayCutoutEmulationCorner
+06.09.2024  21:15    <DIR>          DisplayCutoutEmulationDouble
+06.09.2024  21:15    <DIR>          DisplayCutoutEmulationTall
+06.09.2024  21:15            23ÿ315 framework-res__auto_generated_rro.apk
+06.09.2024  21:15    <DIR>          SysuiDarkTheme
+06.09.2024  21:15    <DIR>          SysuiHideNotch
+06.09.2024  21:15    <DIR>          SysuiHideNotchWithoutCornerRound
+               1 File(s)         23ÿ315 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\overlay\DisplayCutoutEmulationCorner
+
+06.09.2024  21:15    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:15            20ÿ841 DisplayCutoutEmulationCornerOverlay.apk
+               1 File(s)         20ÿ841 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\overlay\DisplayCutoutEmulationDouble
+
+06.09.2024  21:15    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:15            21ÿ155 DisplayCutoutEmulationDoubleOverlay.apk
+               1 File(s)         21ÿ155 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\overlay\DisplayCutoutEmulationTall
+
+06.09.2024  21:15    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:15            20ÿ900 DisplayCutoutEmulationTallOverlay.apk
+               1 File(s)         20ÿ900 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\overlay\SysuiDarkTheme
+
+06.09.2024  21:15    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:15            18ÿ329 SysuiDarkThemeOverlay.apk
+               1 File(s)         18ÿ329 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\overlay\SysuiHideNotch
+
+06.09.2024  21:15    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:15             8ÿ600 SysuiHideNotchOverlay.apk
+               1 File(s)          8ÿ600 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\overlay\SysuiHideNotchWithoutCornerRound
+
+06.09.2024  21:15    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+06.09.2024  21:15             8ÿ604 SysuiHideNotchWithoutCornerRoundOverlay.apk
+               1 File(s)          8ÿ604 bytes
+
+ Directory of F:\Desktop\XCOVER4\Lineage\vendor\samsung\xcover4lte\vendor_samsung_xcover4lte\vendor\proprietary
+
+06.09.2024  21:15    <DIR>          .
+06.09.2024  21:15    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+             699 File(s)     95ÿ121ÿ189 bytes
+             182 Dir(s)  67ÿ904ÿ233ÿ472 bytes free
